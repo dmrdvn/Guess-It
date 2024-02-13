@@ -92,7 +92,7 @@ Open your web browser and navigate to `http://localhost:3000` to access `Guess I
 
 ## Contributing
 
-Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md) before submitting pull requests.
+Contributions are welcome! Please follow the [contribution guidelines](contribution.md) before submitting pull requests.
 
 ## License
 
